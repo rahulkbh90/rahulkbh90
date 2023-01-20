@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rahul
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Youtube
+- 👀 I'm a Developer and Cloud Enthusiast ☁️. 
+- 🌱 I’m expanding my knowledge in GCP Cloud and DevOps.
 - 📫 How to reach me rahulgajapathi@gmail.com
 
 <!---
